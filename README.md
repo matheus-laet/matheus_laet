@@ -1,3 +1,3 @@
 ## Welcome to Matheus Laet Page
 
-![Badge](/github/commits-since/:user/:repo/:version/:branch*)
+<img src="/github/commits-since/:user/:repo/:version/:branch*/">
